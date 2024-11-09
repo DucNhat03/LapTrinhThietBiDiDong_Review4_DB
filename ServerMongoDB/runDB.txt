@@ -1,0 +1,7 @@
+--
+npm init -y
+npm install express body-parser cors multer mongodb
+npm install mongoose
+--
+node server.js
+
